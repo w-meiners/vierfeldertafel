@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+graphviz
+
+# Modul zur einfacheren Bearbeitung von
+# Funktionen, die aus einem Ausdruck generiert werden
+git+https://github.com/wolfgang-302/fun-expr.git@master#egg=fun_expr
+
